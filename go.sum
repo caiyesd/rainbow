@@ -1,0 +1,5 @@
+github.com/silentred/gid v1.0.0/go.mod h1:DMQPn66uY+3ed7rWfzOVET7VbDBAhjz+6AmmlixUK08=
+github.com/tsingson/cpuaffinity v0.0.3 h1:mWFq5FOhOMV5ygQx0/svUmP3Pa4vl2XiRPMMlapTliE=
+github.com/tsingson/cpuaffinity v0.0.3/go.mod h1:ZojU/pcU8jUMzPU5l8hgMjhOcsWVL49MFrXeoCuqLiM=
+golang.org/x/sys v0.0.0-20200106162015-b016eb3dc98e h1:LwyF2AFISC9nVbS6MgzsaQNSUsRXI49GS+YQ5KX/QH0=
+golang.org/x/sys v0.0.0-20200106162015-b016eb3dc98e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
